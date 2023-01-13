@@ -3,7 +3,7 @@
 **`Frontend developer`**
 
 <p dir="auto">
-    <img align="right" src="https://github.com/avetisdav94/TheBookMonster/blob/main/images/giphy.gif" height="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+    <img align="right" src="https://github.com/avetisdav94/avetisdav94/blob/main/images/giphy.gif" height="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
 I'm junior frontend developer. I dream of becoming a senior frontend 
